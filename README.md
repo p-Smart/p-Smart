@@ -7,7 +7,14 @@
     <a href="https://github.com/p-Smart">
       <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
     </a>
-  </div>
+    <a href="https://wa.me/2349063900991">
+      <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+    </a>
+    <a href="https://instagram.com/p_smarrt">
+      <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
+</div>
+
   <img src="https://komarev.com/ghpvc/?username=p-Smart&style=flat-square&color=blue" alt=""/>
   <h1>
     Hey there
